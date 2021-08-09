@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-    <img src="./images/csharp.jpg" width="250">
+    <img src="./images/csharp.jpg" width="350">
 </p>
 
 <p align="center">
@@ -35,11 +35,11 @@ Learn new testing tools.
 The following tools were used in the construction of the project:
 
 - IDE: <a href="https://visualstudio.microsoft.com/downloads/">Visual Studio</a>
-- SDK: <a href="https://go.microsoft.com/fwlink/?linkid=2088631">Net FrameWork 4.8</a>
+- SDK: <a href="https://dotnet.microsoft.com/download/dotnet/5.0">.Net 5</a>
 
 <h2 id=author>:grin: Author</h2>
 
 Developed by <a href="https://www.linkedin.com/in/danhpaiva/" target="_blank">Daniel Paiva</a>
 
 <h2 id=licence>:lock: Licence</h2>
-<a href="https://github.com/danhpaiva/csharp-unit-test-programada-mente/blob/main/LICENSE" target="_blank">MIT</a>
+<a href="https://github.com/danhpaiva/tdd-csharp-algorama/blob/main/LICENSE" target="_blank">MIT</a>
