@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-    <img src="./images/csharp.jpg" width="150">
+    <img src="./images/csharp.jpg" width="250">
 </p>
 
 <p align="center">
