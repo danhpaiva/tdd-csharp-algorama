@@ -21,9 +21,9 @@
 </h2>
 
 <h2 id=objective>:scroll: Objective</h2>
-The goal is to improve unit testing.
+<p>The goal is to improve unit testing.
 The advantages of testing our applications.
-Learn new testing tools.
+Learn new testing tools.</p>
 
 <h2 id=installation>:clipboard: Installation</h2>
 
